@@ -1,0 +1,9 @@
+#CutPasses  1
+#GomoryPasses  1
+Cuts 2
+MIPFocus 3
+#VarBranch 0
+LazyConstraints  1
+#TuneResults  1
+#ZeroHalfCuts 2
+#ImpliedCuts 2
